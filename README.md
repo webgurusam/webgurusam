@@ -4,9 +4,9 @@
 #### Web Developer
 
 
-I'm Sam a Full-Stack Web Developer since 2019 and experience in both Designing & Developing websites & web applications using these technologies: (HTML, CSS, Javascript, Bootstrap, Angular, React, Node, MongoDB) I love to built websites & web applications for a broad range of industries from small and mid-level businesses to high-end companies. My aim has always been to build a website that looks professional, responsive with fast loading speed & SEO Friendly. Let's plan your Project Today!
+I'm Sam a Full-Stack Web Developer since 2019 and experience in both Designing & Developing websites & web applications using these technologies: (HTML, CSS, Javascript, Bootstrap) I love to built websites & web applications for a broad range of industries from small and mid-level businesses to high-end companies. My aim has always been to build a website that looks professional, responsive with fast loading speed & SEO Friendly. Let's plan your Project Today!
 
-Skills: REACT / JS / HTML / CSS / BOOTSTRAP / TAILWIND / ANGULAR / NODE / MONGODB 
+Skills: JS / HTML / CSS / BOOTSTRAP / TAILWIND  
 
 - 🔭 I’m currently working on Programming Hero 
 - 🌱 I’m currently learning Web Development 
