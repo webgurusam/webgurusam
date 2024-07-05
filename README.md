@@ -1,29 +1,39 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm webgurusam</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" />
+# Hi there, I'm Shyam Ghosh! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=webgurusam&label=Profile%20views&color=0e75b6&style=flat" alt="webgurusam" /> </p>
+I'm a **Passionate Front-end Web Developer** from Bangladesh, dedicated to crafting delightful web experiences.
 
-<p align="left"> <a href="https://twitter.com/webgurusam" target="blank"><img src="https://img.shields.io/twitter/follow/webgurusam?logo=twitter&style=for-the-badge" alt="webgurusam" /></a> </p>
+---
 
-- 🔭 I’m currently working on **React.js**
+## 🚀 Skills & Tools
+- **Languages:** HTML5, CSS3, JavaScript
+- **Frameworks/Libraries:** Bootstrap, Tailwind CSS, React.js
+- **Design Tools:** Figma
+- **Version Control:** Git, GitHub
 
-- 🌱 I’m currently learning **React Router**
+## 🌱 Currently Learning
+- Mastering React Router for advanced navigation control.
 
-- 📫 How to reach me **webgurusam48@gmail.com**
+## 📊 GitHub Analytics
+![Shyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=webgurusam&show_icons=true&theme=dark)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/webgurusam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="webgurusam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/webgurusam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="webgurusam" height="30" width="40" /></a>
-</p>
+## 🔧 Tech Stack
+![Tech Stack](https://img.shields.io/badge/tech%20stack-HTML5%20%7C%20CSS3%20%7C%20Bootstrap%20%7C%20Tailwind%20CSS%20%7C%20JavaScript%20%7C%20React.js%20%7C%20Figma-blue)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🌐 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/webgurusam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/webgurusam)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:webgurusam48@gmail.com)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webgurusam&show_icons=true&locale=en&layout=compact" alt="webgurusam" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webgurusam&show_icons=true&locale=en" alt="webgurusam" /></p>
+### 📂 Featured Projects
+- [**Project 1 Name**](https://github.com/webgurusam/project-1) - Brief description.
+- [**Project 2 Name**](https://github.com/webgurusam/project-2) - Brief description.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webgurusam&" alt="webgurusam" /></p>
+## 📝 Latest Blog Posts
+- [**Blog Post Title 1**](https://your-blog-url/post-1) - Summary.
+- [**Blog Post Title 2**](https://your-blog-url/post-2) - Summary.
+
+---
+
+Thanks for visiting! Let's connect and innovate together.
